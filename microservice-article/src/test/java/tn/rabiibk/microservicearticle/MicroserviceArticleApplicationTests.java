@@ -1,0 +1,13 @@
+package tn.rabiibk.microservicearticle;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class MicroserviceArticleApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}

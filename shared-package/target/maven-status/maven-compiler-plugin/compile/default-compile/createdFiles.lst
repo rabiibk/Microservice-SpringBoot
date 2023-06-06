@@ -1,0 +1,6 @@
+entities\BaseEntity.class
+entities\StockDto.class
+entities\StockDto$StockDtoBuilder.class
+entities\ArticleDto$ArticleDtoBuilder.class
+entities\ArticleDto.class
+entities\RestExceptionHandlers.class
